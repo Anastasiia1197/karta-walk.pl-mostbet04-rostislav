@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://www.portal-aldan.ru/sitemap.xml
+Sitemap: https://karta-walk.pl/sitemap.xml
